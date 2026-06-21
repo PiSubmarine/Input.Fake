@@ -1,0 +1,14 @@
+# Target labels
+ pisubmarinebuild-populate
+# Source files and their labels
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/CMakeFiles/pisubmarinebuild-populate
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/CMakeFiles/pisubmarinebuild-populate.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/CMakeFiles/pisubmarinebuild-populate-complete.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/pisubmarinebuild-populate-prefix/src/pisubmarinebuild-populate-stamp/pisubmarinebuild-populate-build.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/pisubmarinebuild-populate-prefix/src/pisubmarinebuild-populate-stamp/pisubmarinebuild-populate-configure.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/pisubmarinebuild-populate-prefix/src/pisubmarinebuild-populate-stamp/pisubmarinebuild-populate-download.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/pisubmarinebuild-populate-prefix/src/pisubmarinebuild-populate-stamp/pisubmarinebuild-populate-install.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/pisubmarinebuild-populate-prefix/src/pisubmarinebuild-populate-stamp/pisubmarinebuild-populate-mkdir.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/pisubmarinebuild-populate-prefix/src/pisubmarinebuild-populate-stamp/pisubmarinebuild-populate-patch.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/pisubmarinebuild-populate-prefix/src/pisubmarinebuild-populate-stamp/pisubmarinebuild-populate-test.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarinebuild-subbuild/pisubmarinebuild-populate-prefix/src/pisubmarinebuild-populate-stamp/pisubmarinebuild-populate-update.rule

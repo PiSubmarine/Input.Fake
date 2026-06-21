@@ -1,0 +1,14 @@
+# Target labels
+ pisubmarine.error.api-populate
+# Source files and their labels
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/CMakeFiles/pisubmarine.error.api-populate
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/CMakeFiles/pisubmarine.error.api-populate.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/CMakeFiles/pisubmarine.error.api-populate-complete.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/pisubmarine.error.api-populate-prefix/src/pisubmarine.error.api-populate-stamp/pisubmarine.error.api-populate-build.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/pisubmarine.error.api-populate-prefix/src/pisubmarine.error.api-populate-stamp/pisubmarine.error.api-populate-configure.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/pisubmarine.error.api-populate-prefix/src/pisubmarine.error.api-populate-stamp/pisubmarine.error.api-populate-download.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/pisubmarine.error.api-populate-prefix/src/pisubmarine.error.api-populate-stamp/pisubmarine.error.api-populate-install.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/pisubmarine.error.api-populate-prefix/src/pisubmarine.error.api-populate-stamp/pisubmarine.error.api-populate-mkdir.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/pisubmarine.error.api-populate-prefix/src/pisubmarine.error.api-populate-stamp/pisubmarine.error.api-populate-patch.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/pisubmarine.error.api-populate-prefix/src/pisubmarine.error.api-populate-stamp/pisubmarine.error.api-populate-test.rule
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.error.api-subbuild/pisubmarine.error.api-populate-prefix/src/pisubmarine.error.api-populate-stamp/pisubmarine.error.api-populate-update.rule

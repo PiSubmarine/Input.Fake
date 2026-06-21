@@ -1,0 +1,3 @@
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.input.api-subbuild/CMakeFiles/pisubmarine.input.api-populate.dir
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.input.api-subbuild/CMakeFiles/edit_cache.dir
+C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/_deps/pisubmarine.input.api-subbuild/CMakeFiles/rebuild_cache.dir

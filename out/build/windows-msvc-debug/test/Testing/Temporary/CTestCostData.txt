@@ -1,0 +1,7 @@
+BinderTest.StartCaptureCreatesAxisBinding 1 0.0053945
+BinderTest.StartCaptureCreatesKeyBinding 1 0.0049076
+ManagerTest.CreateAxisProducesNormalizedValue 1 0.0046046
+ManagerTest.CreateKeyProducesValidKeyState 1 0.0054129
+SerializerTest.AxisBindingRoundTripPreservesData 1 0.0050643
+SerializerTest.KeyBindingRoundTripPreservesData 1 0.0047456
+---
