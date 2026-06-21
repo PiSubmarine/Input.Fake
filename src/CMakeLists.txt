@@ -17,3 +17,6 @@ PiSubmarineInitTarget(${PISUBMARINE_MODULE_NAME})
 
 PiSubmarineAddDependency("https://github.com/PiSubmarine/Input.Api.git" "")
 target_link_libraries(${PISUBMARINE_MODULE_NAME} PUBLIC PiSubmarine.Input.Api)
+
+PiSubmarineAddDependency("https://github.com/PiSubmarine/Time.Tickable.Api.git" "")
+target_link_libraries(${PISUBMARINE_MODULE_NAME} PUBLIC PiSubmarine.Time.Tickable.Api)

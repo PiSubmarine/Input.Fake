@@ -1,5 +1,0 @@
-if(EXISTS "C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/test/PiSubmarine.Input.Fake.Test[1]_tests.cmake")
-  include("C:/Software/GitHub/PiSubmarine/Input.Fake/out/build/windows-msvc-debug/test/PiSubmarine.Input.Fake.Test[1]_tests.cmake")
-else()
-  add_test(PiSubmarine.Input.Fake.Test_NOT_BUILT PiSubmarine.Input.Fake.Test_NOT_BUILT)
-endif()
