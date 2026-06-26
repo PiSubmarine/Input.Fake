@@ -8,7 +8,7 @@ namespace PiSubmarine::Input::Fake
     class AxisBinding final : public Api::IAxisBinding
     {
     public:
-        AxisBinding(int channel, double phase, std::string hint = {});
+        AxisBinding(int channel, double phase, std::string hint = "");
 
         [[nodiscard]] std::string GetHint() const override;
         [[nodiscard]] int GetChannel() const;

@@ -9,7 +9,7 @@ namespace PiSubmarine::Input::Fake
     class KeyBinding final : public Api::IKeyBinding
     {
     public:
-        KeyBinding(int button, std::chrono::milliseconds period, std::chrono::milliseconds pressedDuration, std::string hint = {});
+        KeyBinding(int button, std::chrono::milliseconds period, std::chrono::milliseconds pressedDuration, std::string hint = "");
 
         [[nodiscard]] std::string GetHint() const override;
         [[nodiscard]] int GetButton() const;
